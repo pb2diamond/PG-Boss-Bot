@@ -53,5 +53,4 @@ async def yesu(ctx):
         print("Command [Yesu] Has Been Called")
  
 #TOKEN
-bot.run(process.env.BOT_TOKEN)
-BOT_TOKEN = NDg0NDU0NTczMjcyOTg5Njk2.DmiP-Q.XDW6prBpw9CtiX9UFmJjBNQ3Jak
+bot.run(process.env(TOKEN))
