@@ -10,6 +10,7 @@ import random
 import asyncio
 import time
 import random
+import os
  
 ##PREFIX##
 bot = commands.Bot(command_prefix='pg!')
